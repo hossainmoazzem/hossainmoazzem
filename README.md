@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mo
 - 👀 I’m interested in Cloud Computing, AI and Robotics.
-- 🌱 I’m currently building AI Study Tracker App.
+- 🌱 I’m currently building Australian Population Dashboard.
 - 💞️ I’m looking to collaborate on Product Development.
 - 📫 How to reach me hossainmoazzem@gmail.com
 
