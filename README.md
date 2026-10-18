@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mo
 - 👀 I’m interested in Cloud Computing, AI and Robotics.
 - 🌱 I’m currently building Australian Population Dashboard.
-- 💞️ I’m looking to collaborate on Product Development.
+- 💞️ I’m looking to explore more interesting public data to display on my site via free API.
 - 📫 How to reach me hossainmoazzem@gmail.com
 
 <!---
